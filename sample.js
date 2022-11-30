@@ -1,1 +1,2 @@
-concole.log("Hello Rajesh")
+concole.log("Hello Rajesh");
+console.log("bonjour");
